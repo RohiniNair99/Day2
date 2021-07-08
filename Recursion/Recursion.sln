@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverload", "..\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceImplementation", "..\InterfaceImplementation\InterfaceImplementation.csproj", "{C91CEB98-0A8C-448B-8139-49ABC276A404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight", "..\TrafficLight\TrafficLight.csproj", "{F9D69BA5-64A1-498F-A874-60962103E22A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C91CEB98-0A8C-448B-8139-49ABC276A404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C91CEB98-0A8C-448B-8139-49ABC276A404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C91CEB98-0A8C-448B-8139-49ABC276A404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D69BA5-64A1-498F-A874-60962103E22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D69BA5-64A1-498F-A874-60962103E22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D69BA5-64A1-498F-A874-60962103E22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D69BA5-64A1-498F-A874-60962103E22A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
