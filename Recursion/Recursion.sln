@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceImplementation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight", "..\TrafficLight\TrafficLight.csproj", "{F9D69BA5-64A1-498F-A874-60962103E22A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{001D274E-3AF4-4FDE-817B-613B8F75494E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F9D69BA5-64A1-498F-A874-60962103E22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9D69BA5-64A1-498F-A874-60962103E22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9D69BA5-64A1-498F-A874-60962103E22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001D274E-3AF4-4FDE-817B-613B8F75494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001D274E-3AF4-4FDE-817B-613B8F75494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001D274E-3AF4-4FDE-817B-613B8F75494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001D274E-3AF4-4FDE-817B-613B8F75494E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
