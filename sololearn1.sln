@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sololearn1", "sololearn1\sololearn1.csproj", "{8EA61D20-4FA8-4A4E-9FD0-8AB7D48E9509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sololearn1", "sololearn1\sololearn1.csproj", "{8EA61D20-4FA8-4A4E-9FD0-8AB7D48E9509}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayOutput", "DisplayOutput\DisplayOutput.csproj", "{CB3B9CFF-2CF2-4156-B24D-483DF889E5CE}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "areaOfCircle", "areaOfCircle\areaOfCircle.csproj", "{381FC378-3BD9-43D7-8332-D131EAEFB540}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleOfThree", "switchStatement\MultipleOfThree.csproj", "{4CC592D3-8683-4723-94BE-3B49D795905D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeHouse", "CoffeeHouse\CoffeeHouse.csproj", "{BCC38100-1CCC-4963-BC18-F004EF46F042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4CC592D3-8683-4723-94BE-3B49D795905D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC592D3-8683-4723-94BE-3B49D795905D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC592D3-8683-4723-94BE-3B49D795905D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC38100-1CCC-4963-BC18-F004EF46F042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC38100-1CCC-4963-BC18-F004EF46F042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC38100-1CCC-4963-BC18-F004EF46F042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC38100-1CCC-4963-BC18-F004EF46F042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
